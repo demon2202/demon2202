@@ -8,6 +8,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" height="150" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY5NDM4MDgsIm5iZiI6MTczNjk0MzUwOCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE1VDEyMTgyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyYzcxMzJkMjhkZjE0ZDM3NTZjZDI1YmI3Yjg1ZmU1NzZiMmM5YjgzNTM0YzAyZjc0ZjIxOWIzZTRmNDg2MGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.K5W8pLDpuSmYlJHO5XzoGIDkC_8tuSmMCf7xQto5xuE"  />
 
 ###
@@ -55,6 +57,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=demon2202&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
