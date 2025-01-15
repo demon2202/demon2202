@@ -1,4 +1,3 @@
-
 <h2 align="center">Hi 👋! My name is Harshit Singh Negi and I'm a Developer/Programmer, from India</h2>
 
 ###
