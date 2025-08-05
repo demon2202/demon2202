@@ -1,62 +1,85 @@
 <div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="250" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=demon2202&theme=dracula&row=1&column=7" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=demon2202&style=flat-square&color=blue" alt="profile views" />
 </div>
 
-###
+<h1 align="center">Hi 👋! I'm Harshit Singh Negi <br>Developer/Programmer from India 🇮🇳</h1>
 
-<h1 align="center">Hi 👋! myself Harshit Singh Negi <br>I'm a Developer/Programmer, from India</h1>
+---
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+<!-- About Me Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&width=450&lines=Fullstack+Dev+%7C+Open+Source+Contributor;Tech+Lover+%7C+Problem+Solver;Always+Learning+Something+New..." />
 </div>
 
-###
+---
 
-<br clear="both">
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 Achievements & GitHub Stats
 
 <div align="center">
-  <a href="www.linkedin.com/in/harshit-singh-negi-828445289" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/harshitnegi519/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/harshit_negi34" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=demon2202&show_icons=true&theme=dracula&hide_border=false" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=demon2202&theme=dracula&hide_border=false&border_radius=5" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=demon2202&theme=dracula" height="200"/>
 </div>
 
-###
+---
 
-<br clear="both">
+## 📫 Connect With Me
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=demon2202&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=demon2202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshit-singh-negi-828445289" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/harshitnegi519/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/harshit_negi34" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/your-hr-profile" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
 
-###
+---
+
+## 🎯 Fun Facts & More
+
+- 🧑‍💻 I love building scalable web apps & experimenting with new tech.
+- 🎮 Gaming, Blender 3D & animation enthusiast.
+- 🏆 Hackathons and competitive coding fan!
+- 📖 Always learning: currently exploring AI & cloud.
+- ⚡ Favorite Quote: *"Code is like humor. When you have to explain it, it’s bad."*
+
+---
+
+<!-- Pinned Repos Section -->
+## 🔥 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/demon2202/your-cool-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=your-cool-project&theme=dracula" /></a>
+  <a href="https://github.com/demon2202/another-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=another-project&theme=dracula" /></a>
+</p>
+
+---
+
+<!-- Blog Posts (if any) -->
+<!--
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+-->
