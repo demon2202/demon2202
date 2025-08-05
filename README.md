@@ -10,9 +10,10 @@
 
 ---
 
-<!-- Animated Typing SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&width=450&lines=Fullstack+Dev+%7C+Open+Source+Contributor;Tech+Lover+%7C+Problem+Solver;Always+Learning+Something+New..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=450&lines=AI+Enthusiast+%7C+Cloud+Explorer;Competitive+Coder+%7C+Blender+Artist;Let%27s+Build+Something+Awesome!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=450&lines=Open+for+Collaboration+%F0%9F%91%8B;DM+me+for+Projects+%F0%9F%93%A2;Let%27s+Connect+and+Code!" />
 </div>
 
 ---
@@ -66,6 +67,18 @@
   <a href="https://github.com/demon2202/Binary-Tree-visualizer" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=Binary-Tree-visualizer&theme=dracula" />
   </a>
+  <a href="https://github.com/demon2202/College-Website-Vtop" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=College-Website-Vtop&theme=dracula" />
+  </a>
+  <a href="https://github.com/demon2202/Easy-Web-Dev-Project" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=Easy-Web-Dev-Project&theme=dracula" />
+  </a>
+  <a href="https://github.com/demon2202/PYTHON_PROJECTS" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=PYTHON_PROJECTS&theme=dracula" />
+  </a>
+  <a href="https://github.com/demon2202/C-projects" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=C-projects&theme=dracula" />
+  </a>
 </p>
 
 ---
@@ -100,10 +113,3 @@
 - ✨ Motto: Learn, build, share.
 
 ---
-
-<!-- Blog Posts (if any) -->
-<!--
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
--->
