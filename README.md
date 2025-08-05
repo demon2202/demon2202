@@ -12,8 +12,9 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&width=450&lines=Fullstack+Dev+%7C+Open+Source+Contributor;Tech+Lover+%7C+Problem+Solver;Always+Learning+Something+New..." />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=450&lines=AI+Enthusiast+%7C+Cloud+Explorer;Competitive+Coder+%7C+Blender+Artist;Let%27s+Build+Something+Awesome!" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=450&lines=Open+for+Collaboration+%F0%9F%91%8B;DM+me+for+Projects+%F0%9F%93%A2;Let%27s+Connect+and+Code!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=450&lines=AI+Enthusiast+%7C+Cloud+Explorer;Competitive+Coder+%7C+Blender+Artist;Let's+Build+Something+Awesome!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=450&lines=Open+for+Collaboration+%F0%9F%91%8B;DM+me+for+Projects+%F0%9F%93%A2;Let's+Connect+and+Code!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3500&pause=500&color=FFD700&center=true&vCenter=true&width=450&lines=Check+out+my+cool+projects+below!;Scroll+for+more+%F0%9F%94%91" />
 </div>
 
 ---
@@ -83,12 +84,14 @@
 
 ---
 
-## 📝 About Me
+## 💡 Highlights
 
 - 🧑‍💻 Passionate about building scalable apps and experimenting with new tech.
 - 🎮 Gaming, Blender 3D & animation enthusiast.
 - 🏆 Hackathons and competitive coding fan!
 - 📖 Currently exploring AI & cloud.
+- 🧠 Interested in Data Science, ML and DevOps.
+- 🚀 Always open to collaborating on cool projects.
 - ⚡ Favorite Quote: *"Code is like humor. When you have to explain it, it’s bad."*
 
 ---
@@ -110,6 +113,14 @@
 - 💡 I love open source and collaborating on creative ideas.
 - 🌍 Life's short, code hard, meme harder.
 - 🤖 I automate everything possible!
+- 🏹 Archery, hiking, and music are my go-to hobbies.
 - ✨ Motto: Learn, build, share.
 
 ---
+
+<!-- Blog Posts (if any) -->
+<!--
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+-->
