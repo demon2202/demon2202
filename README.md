@@ -10,7 +10,7 @@
 
 ---
 
-<!-- About Me Section -->
+<!-- Animated Typing SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&width=450&lines=Fullstack+Dev+%7C+Open+Source+Contributor;Tech+Lover+%7C+Problem+Solver;Always+Learning+Something+New..." />
 </div>
@@ -45,6 +45,41 @@
 
 ---
 
+## 🔥 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/demon2202/GreenRoute" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=GreenRoute&theme=dracula" />
+  </a>
+  <a href="https://github.com/demon2202/AiCodeGEN" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=AiCodeGEN&theme=dracula" />
+  </a>
+  <a href="https://github.com/demon2202/RASA-CHATBOT" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=RASA-CHATBOT&theme=dracula" />
+  </a>
+  <a href="https://github.com/demon2202/Diseases_Prediction_AI" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=Diseases_Prediction_AI&theme=dracula" />
+  </a>
+  <a href="https://github.com/demon2202/SpaceGame" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=SpaceGame&theme=dracula" />
+  </a>
+  <a href="https://github.com/demon2202/Binary-Tree-visualizer" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=Binary-Tree-visualizer&theme=dracula" />
+  </a>
+</p>
+
+---
+
+## 📝 About Me
+
+- 🧑‍💻 Passionate about building scalable apps and experimenting with new tech.
+- 🎮 Gaming, Blender 3D & animation enthusiast.
+- 🏆 Hackathons and competitive coding fan!
+- 📖 Currently exploring AI & cloud.
+- ⚡ Favorite Quote: *"Code is like humor. When you have to explain it, it’s bad."*
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -59,21 +94,10 @@
 
 ## 🎯 Fun Facts & More
 
-- 🧑‍💻 I love building scalable web apps & experimenting with new tech.
-- 🎮 Gaming, Blender 3D & animation enthusiast.
-- 🏆 Hackathons and competitive coding fan!
-- 📖 Always learning: currently exploring AI & cloud.
-- ⚡ Favorite Quote: *"Code is like humor. When you have to explain it, it’s bad."*
-
----
-
-<!-- Pinned Repos Section -->
-## 🔥 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/demon2202/your-cool-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=your-cool-project&theme=dracula" /></a>
-  <a href="https://github.com/demon2202/another-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=another-project&theme=dracula" /></a>
-</p>
+- 💡 I love open source and collaborating on creative ideas.
+- 🌍 Life's short, code hard, meme harder.
+- 🤖 I automate everything possible!
+- ✨ Motto: Learn, build, share.
 
 ---
 
