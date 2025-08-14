@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="250" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=demon2202&theme=dracula&row=1&column=7" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=demon2202&style=flat-square&color=blue" alt="profile views" />
+</div>
+
 <!-- Profile README | Dracula Themed | Harshit Singh Negi (demon2202) -->
 
 <p align="center">
