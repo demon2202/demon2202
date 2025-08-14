@@ -1,13 +1,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="250" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=demon2202&theme=dracula&row=1&column=7" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=demon2202&style=flat-square&color=blue" alt="profile views" />
 </div>
-
-<!-- Profile README | Dracula Themed | Harshit Singh Negi (demon2202) -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshit+Singh+Negi!;Full-stack+Developer+from+India;Building+with+AI%2C+Cloud+%26+Code+%F0%9F%92%BB" alt="Animated Typing SVG">
 </p>
