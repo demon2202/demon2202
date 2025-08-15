@@ -38,27 +38,22 @@
   
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,sass,redux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql" />
-</p>
-
-### Database & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,gcp,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi," />
 </p>
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 </div>
