@@ -1,6 +1,3 @@
-I'll create a professional and animated GitHub README profile for you. Here's a comprehensive design:
-
-```markdown
 <!-- Animated Header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Harshit+Singh+Negi+👋;Full-Stack+Developer+from+India+🇮🇳;AI+Enthusiast+and+Programmer+🚀" alt="Typing SVG" />
@@ -129,30 +126,4 @@ I'll create a professional and animated GitHub README profile for you. Here's a 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%">
 </div>
-```
 
-**Important Setup Instructions:**
-
-1. **Replace all instances of `demon2202`** with your actual GitHub username
-2. **Replace `YOUR_LINKEDIN_USERNAME`**, `YOUR_TWITTER_USERNAME`**, and `YOUR_DEVTO_USERNAME`** with your actual social media handles
-3. **Replace `your-email@example.com`** with your actual email
-4. **Replace `project1` and `project2`** with your actual repository names for the featured projects section
-
-**Additional Customization Options:**
-
-1. **Color Themes**: You can change the theme colors by modifying the `theme` parameter in the stats cards (options: `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`)
-
-2. **Add More Animations**: You can add more GIFs from repositories like:
-   - https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub
-   - https://github.com/TheDudeThatCode/TheDudeThatCode
-
-3. **Custom Badges**: Create custom badges at https://shields.io/
-
-4. **Add Trophies**: Add this section for GitHub trophies:
-```markdown
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" width="100%">
-</div>
-```
-
-This profile includes animated typing effects, skill icons, contribution graphs, and a snake animation that follows your contribution pattern. It maintains a professional look while incorporating cool animations that make your profile stand out!
