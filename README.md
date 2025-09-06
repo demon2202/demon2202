@@ -16,17 +16,17 @@
   
   <br>
   
-  - 🔭 I'm currently working on **AI-powered web applications**
+🔭 I'm currently working on **AI-powered web applications**
   
-  - 🌱 I'm currently learning **Machine Learning & Cloud Architecture**
+🌱 I'm currently learning **Machine Learning & Cloud Architecture**
   
-  - 👯 I'm looking to collaborate on **Open Source Projects**
+👯 I'm looking to collaborate on **Open Source Projects**
   
-  - 💬 Ask me about **React, Node.js, Python, and AI**
+💬 Ask me about **React, Node.js, Python, and AI**
   
-  - 📫 How to reach me: **[harshit3976@gmail.com](mailto:harshit3976@gmail.com)**
+📫 How to reach me: **[harshit3976@gmail.com](mailto:harshit3976@gmail.com)**
   
-  - ⚡ Fun fact: **I debug with console.log and I'm proud of it!**
+⚡ Fun fact: **I debug with console.log and I'm proud of it!**
 </div>
 
 <br><br><br>
