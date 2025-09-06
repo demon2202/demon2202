@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Harshit+Singh+Negi+👋;Full-Stack+and+AIML+Developer+from+India+🇮🇳;AI+Enthusiast+and+Programmer+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=1500&lines=Hi+there!+I'm+Harshit+Singh+Negi+👋;Full-Stack+and+AIML+Developer+from+India+🇮🇳;AI+Enthusiast+and+Programmer+🚀" alt="Typing SVG" />
 </div>
 
 <!-- Animated Banner -->
