@@ -32,7 +32,7 @@
 <br><br><br><br>
 
 <!-- Tech Stack Section -->
-<h2 align="center">
+<h2 align="center"><br>
   🛠️ Tech Stack</h2>
 
 <div align="center">
