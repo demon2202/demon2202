@@ -23,7 +23,6 @@
   <a href="mailto:harshit3976@gmail.com"><img src="https://img.shields.io/badge/Email-harshit3976@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/harshitsinghnegi/"><img src="https://img.shields.io/badge/LinkedIn-Harshit%20Singh%20Negi-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/harshit2202"><img src="https://img.shields.io/badge/Twitter-@harshit2202-1da1f2?style=for-the-badge&logo=twitter"></a>
-  <a href="https://dev.to/demon2202"><img src="https://img.shields.io/badge/DEV.to-demon2202-black?style=for-the-badge&logo=devdotto"></a>
 </div>
 
 ---
