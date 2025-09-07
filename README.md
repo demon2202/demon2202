@@ -87,10 +87,11 @@
 </div>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/demon2202/demon2202/output/github-contribution-grid-pacman.svg" width="100%" alt="Pacman contribution graph animation" />
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/demon2202/demon2202/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/demon2202/demon2202/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/demon2202/demon2202/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 <!-- Projects Section -->
