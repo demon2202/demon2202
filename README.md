@@ -45,7 +45,7 @@
 </div>
 
 ---
-
+<br><br>
 <!-- Tech Stack Section -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
