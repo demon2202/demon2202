@@ -1,23 +1,39 @@
 name: Generate Pacman Contribution Graph
 
+# allow manual runs and schedule
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Pacman Contribution Graph (snk)
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          # your GitHub username (repo owner)
+          github_user_name: demon2202
+          # output file (pacman animation)
           outputs: |
             output/github-contribution-grid-pacman.svg?animation=pacman
-      - name: Push generated files
+
+      - name: Show generated files (debug)
+        run: ls -la output || echo "No output directory yet"
+
+      - name: Commit and push generated SVG
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "chore: generate pacman contribution graph"
           add: "output/github-contribution-grid-pacman.svg"
+          push: true
