@@ -88,7 +88,7 @@
 
 <!-- Contribution Graph (Pacman Version) -->
 <div align="center">
-  <img src="https://github.com/demon2202/demon2202/blob/output/github-contribution-grid-pacman.svg" width="100%" alt="Pacman contribution graph animation" />
+  <img src="https://raw.githubusercontent.com/demon2202/demon2202/output/github-contribution-grid-pacman.svg" width="100%" alt="Pacman contribution graph animation" />
   <!--
     To generate the Pacman animation, use Platane's snk GitHub Action with:
     outputs: |
