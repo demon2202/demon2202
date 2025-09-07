@@ -86,15 +86,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=demon2202&theme=tokyonight&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" width="90%">
 </div>
 
-<!-- Contribution Graph (Pacman Version) -->
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/demon2202/demon2202/output/github-contribution-grid-pacman.svg" width="100%" alt="Pacman contribution graph animation" />
-  <!--
-    To generate the Pacman animation, use Platane's snk GitHub Action with:
-    outputs: |
-      output/github-contribution-grid-pacman.svg?animation=pacman
-    More info: https://github.com/Platane/snk
-  -->
 </div>
 
 ---
