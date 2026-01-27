@@ -201,12 +201,6 @@ fun_fact: "My code runs on ☕, 🎵, and console.log()"
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=demon2202&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" width="70%" alt="GitHub Streak"/>
-</div>
-
-
 <br>
 
 <!-- Animated Line Divider -->
