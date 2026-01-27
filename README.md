@@ -11,16 +11,6 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-dodgerblue?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Passion-Artificial%20Intelligence-ff6f61?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Lives-India%20🇮🇳-success?style=for-the-badge&logo=googleearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-yellow?style=for-the-badge&logo=googletranslate&logoColor=white" />
-</div>
-
-<br>
-
-<!-- Animated Coding GIFs -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Coding"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Divider"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
 </div>
 
 <br>
@@ -48,26 +38,6 @@
 
 <br>
 
-<!-- 🎮 PACMAN CONTRIBUTION GRAPH - MOVED HERE -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-  Contribution Adventure
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/demon2202/demon2202/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/demon2202/demon2202/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/demon2202/demon2202/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</div>
-
-<br>
-
-<!-- Animated Line Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 <!-- About Me Section -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" />
@@ -79,8 +49,8 @@
   <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
   
   <div align="left" style="margin-left: 20px;">
-    
-```yaml
+
+\`\`\`yaml
 name: Harshit Singh Negi
 located_in: India 🇮🇳
 current_role: Full-Stack + AI Developer
@@ -100,4 +70,211 @@ currently:
 hobbies: ["Travelling 🌍", "Photography 📸", "Reading Sci-Fi 📚", "Gaming 🎮"]
 
 fun_fact: "My code runs on ☕, 🎵, and console.log()"
-</div> </div><br clear="both"><!-- Quick Facts --><div align="center"> <table> <tr> <td>🔭 Working on</td> <td><b>AI-powered web applications</b></td> </tr> <tr> <td>🌱 Learning</td> <td><b>Machine Learning & Cloud Architecture</b></td> </tr> <tr> <td>👯 Open to</td> <td><b>Collaborate on Open Source Projects</b></td> </tr> <tr> <td>💬 Ask me about</td> <td><b>React, Node.js, Python, AI, Cloud, DataViz</b></td> </tr> <tr> <td>📫 Reach me at</td> <td><b>harshit3976@gmail.com</b></td> </tr> </table> </div><br><!-- Animated Line Divider --><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"><!-- Tech Stack Section --><h2 align="center"> <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" /> Tech Arsenal <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" /> </h2><div align="center"> <!-- Languages --> <h3>💻 Languages</h3> <p> <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css&theme=dark" /> </p> <!-- Frontend --> <h3>🎨 Frontend</h3> <p> <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass&theme=dark" /> </p> <!-- Backend --> <h3>⚙️ Backend</h3> <p> <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django,graphql&theme=dark" /> </p> <!-- Database --> <h3>🗄️ Database</h3> <p> <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&theme=dark" /> </p> <!-- AI/ML --> <h3>🤖 AI/ML</h3> <p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="48"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48"/> </p> <!-- DevOps & Cloud --> <h3>☁️ DevOps & Cloud</h3> <p> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,vercel,netlify&theme=dark" /> </p> <!-- Tools --> <h3>🛠️ Tools</h3> <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,bash&theme=dark" /> </p></div><br><!-- Animated Line Divider --><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"><!-- GitHub Stats --><h2 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> GitHub Analytics <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> </h2><div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=demon2202&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&ring_color=F85D7F" height="180" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon2202&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" height="180" alt="Top Languages"/> </div><br><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=demon2202&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" width="70%" alt="GitHub Streak"/> </div><br><!-- GitHub Trophies --><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=demon2202&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%" alt="GitHub Trophies"/> </div><br><!-- Activity Graph --><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=demon2202&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/> </div><br><!-- Animated Line Divider --><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"><!-- Featured Projects Section --><h2 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30" /> Featured Projects <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30" /> </h2><div align="center"> <a href="https://github.com/demon2202/GreenRoute"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=GreenRoute&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /> </a> <a href="https://github.com/demon2202/DsaVisualization"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=DsaVisualization&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /> </a> </div><div align="center"> <a href="https://github.com/demon2202/Diseases_Prediction_AI"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=Diseases_Prediction_AI&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /> </a> <a href="https://github.com/demon2202/Resume"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=Resume&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /> </a> </div><br><!-- Animated Line Divider --><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"><!-- Random Dev Quote --><h2 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> Dev Quote of the Day <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> </h2><div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/> </div><br><!-- Animated Line Divider --><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"><!-- Connect Section --><h2 align="center"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" /> Let's Connect! <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" /> </h2><div align="center"> <a href="mailto:harshit3976@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://www.linkedin.com/in/harshitsinghnegi/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/harshit2202"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="https://github.com/demon2202"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div><br><!-- Profile Views & Followers --><div align="center"> <img src="https://komarev.com/ghpvc/?username=demon2202&style=for-the-badge&color=F85D7F&label=PROFILE+VIEWS" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/demon2202?style=for-the-badge&color=F8D866&labelColor=0D1117&label=FOLLOWERS" alt="Followers"/> <img src="https://img.shields.io/github/stars/demon2202?style=for-the-badge&color=58A6FF&labelColor=0D1117&label=TOTAL+STARS" alt="Stars"/> </div><br><!-- Animated Thank You --><div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%99%8F;Star+%E2%AD%90+my+repos+if+you+find+them+useful!;Let's+build+something+awesome+together!+%F0%9F%9A%80" alt="Thanks"/> </div><br><!-- Animated Snake --><div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"> </picture> </div><!-- Footer Wave --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,50:3F5EFB,100:00d4ff&height=120&section=footer&animation=twinkling" width="100%"/> ```
+\`\`\`
+
+  </div>
+</div>
+
+<br clear="both">
+
+<!-- Quick Facts -->
+<div align="center">
+  <table>
+    <tr>
+      <td>🔭 Working on</td>
+      <td><b>AI-powered web applications</b></td>
+    </tr>
+    <tr>
+      <td>🌱 Learning</td>
+      <td><b>Machine Learning & Cloud Architecture</b></td>
+    </tr>
+    <tr>
+      <td>👯 Open to</td>
+      <td><b>Collaborate on Open Source Projects</b></td>
+    </tr>
+    <tr>
+      <td>💬 Ask me about</td>
+      <td><b>React, Node.js, Python, AI, Cloud, DataViz</b></td>
+    </tr>
+    <tr>
+      <td>📫 Reach me at</td>
+      <td><b>harshit3976@gmail.com</b></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- Tech Stack Section -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" />
+  Tech Arsenal
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" />
+</h2>
+
+<div align="center">
+  
+  <!-- Languages -->
+  <h3>💻 Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css&theme=dark" />
+  </p>
+  
+  <!-- Frontend -->
+  <h3>🎨 Frontend</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass&theme=dark" />
+  </p>
+  
+  <!-- Backend -->
+  <h3>⚙️ Backend</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django,graphql&theme=dark" />
+  </p>
+  
+  <!-- Database -->
+  <h3>🗄️ Database</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&theme=dark" />
+  </p>
+  
+  <!-- AI/ML -->
+  <h3>🤖 AI/ML</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="48"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48"/>
+  </p>
+  
+  <!-- DevOps & Cloud -->
+  <h3>☁️ DevOps & Cloud</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,vercel,netlify&theme=dark" />
+  </p>
+  
+  <!-- Tools -->
+  <h3>🛠️ Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,bash&theme=dark" />
+  </p>
+  
+</div>
+
+<br>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- GitHub Stats -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" />
+  GitHub Analytics
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" />
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=demon2202&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&ring_color=F85D7F" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon2202&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" height="180" alt="Top Languages"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=demon2202&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" width="70%" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=demon2202&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%" alt="GitHub Trophies"/>
+</div>
+
+<br>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=demon2202&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
+</div>
+
+<br>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- Featured Projects Section -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30" />
+  Featured Projects
+  <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30" />
+</h2>
+
+<div align="center">
+  <a href="https://github.com/demon2202/GreenRoute">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=GreenRoute&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+  <a href="https://github.com/demon2202/DsaVisualization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=DsaVisualization&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/demon2202/Diseases_Prediction_AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=Diseases_Prediction_AI&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+  <a href="https://github.com/demon2202/Resume">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=Resume&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+</div>
+
+<br>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- Random Dev Quote -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" />
+  Dev Quote of the Day
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" />
+</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<br>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- Profile Views & Followers -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=demon2202&style=for-the-badge&color=F85D7F&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/demon2202?style=for-the-badge&color=F8D866&labelColor=0D1117&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/demon2202?style=for-the-badge&color=58A6FF&labelColor=0D1117&label=TOTAL+STARS" alt="Stars"/>
+</div>
+
+<br>
+
+<!-- Animated Thank You -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Star+⭐+my+repos+if+you+find+them+useful!;Let's+build+something+awesome+together!+🚀" alt="Thanks"/>
+</div>
+
+<br>
+
+<!-- Animated Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,50:3F5EFB,100:00d4ff&height=120&section=footer&animation=twinkling" width="100%"/>
