@@ -1,22 +1,15 @@
 <!-- Animated Header Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,50:3F5EFB,100:00d4ff&height=200&section=header&text=Harshit%20Singh%20Negi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Lover&descAlignY=55&descSize=18" width="100%"/>
 
-
 <!-- Animated Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+Digital+Universe!+🌌;Building+the+Future+with+Code+%26+AI+🚀;Let's+Create+Something+Amazing+Together!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=Welcome+to+my+Digital+Universe!+🌌;Building+the+Future+with+Code+%26+AI+🚀;Let's+Create+Something+Amazing+Together!+✨" alt="Typing SVG" />
 </div>
+<br>
+<br>
 
 
 
-
-
-<!-- Animated Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-dodgerblue?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Passion-Artificial%20Intelligence-ff6f61?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lives-India%20🇮🇳-success?style=for-the-badge&logo=googleearth&logoColor=white" />
-</div>
 
 <br>
 
@@ -213,19 +206,6 @@ fun_fact: "My code runs on ☕, 🎵, and console.log()"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=demon2202&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" width="70%" alt="GitHub Streak"/>
 </div>
 
-<br>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=demon2202&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%" alt="GitHub Trophies"/>
-</div>
-
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=demon2202&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
-</div>
 
 <br>
 
@@ -234,9 +214,7 @@ fun_fact: "My code runs on ☕, 🎵, and console.log()"
 
 <!-- Featured Projects Section -->
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30" />
   Featured Projects
-  <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30" />
 </h2>
 
 <div align="center">
@@ -293,15 +271,6 @@ fun_fact: "My code runs on ☕, 🎵, and console.log()"
 </div>
 
 <br>
-
-<!-- Animated Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,50:3F5EFB,100:00d4ff&height=120&section=footer&animation=twinkling" width="100%"/>
