@@ -70,7 +70,7 @@
   
   <div align="left" style="margin-left: 20px;">
 
-\`\`\`yaml
+```yaml
 name: Harshit Singh Negi
 located_in: India 🇮🇳
 current_role: Full-Stack + AI Developer
@@ -90,7 +90,7 @@ currently:
 hobbies: ["Travelling 🌍", "Photography 📸", "Reading Sci-Fi 📚", "Gaming 🎮"]
 
 fun_fact: "My code runs on ☕, 🎵, and console.log()"
-\`\`\`
+```
 
   </div>
 </div>
@@ -211,29 +211,6 @@ fun_fact: "My code runs on ☕, 🎵, and console.log()"
 
 <!-- Animated Line Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<!-- Featured Projects Section -->
-<h2 align="center">
-  Featured Projects
-</h2>
-
-<div align="center">
-  <a href="https://github.com/demon2202/GreenRoute">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=GreenRoute&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-  <a href="https://github.com/demon2202/DsaVisualization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=DsaVisualization&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/demon2202/Diseases_Prediction_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=Diseases_Prediction_AI&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-  <a href="https://github.com/demon2202/Resume">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=Resume&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-</div>
 
 <br>
 
