@@ -1,10 +1,15 @@
 <!-- Animated Header Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,50:3F5EFB,100:00d4ff&height=200&section=header&text=Harshit%20Singh%20Negi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Lover&descAlignY=55&descSize=18" width="100%"/>
 
+
 <!-- Animated Typing -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+Digital+Universe!+🌌;Building+the+Future+with+Code+%26+AI+🚀;Let's+Create+Something+Amazing+Together!+✨" alt="Typing SVG" />
 </div>
+
+
+
+
 
 <!-- Animated Badges -->
 <div align="center">
@@ -29,6 +34,28 @@
   <a href="https://github.com/demon2202">
     <img src="https://img.shields.io/badge/GitHub-demon2202-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</div>
+
+<br>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br>
+
+<!-- 🎮 PACMAN CONTRIBUTION GRAPH -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+  Contribution Adventure
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/demon2202/demon2202/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/demon2202/demon2202/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/demon2202/demon2202/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </div>
 
 <br>
