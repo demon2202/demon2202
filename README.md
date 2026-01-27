@@ -1,73 +1,276 @@
-# Hi there, I'm Harshit Singh Negi 👋
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,50:3F5EFB,100:00d4ff&height=200&section=header&text=Harshit%20Singh%20Negi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Lover&descAlignY=55&descSize=18" width="100%"/>
 
-## Full-Stack Developer | AI Enthusiast | Open Source Contributor
+<!-- Animated Typing -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=Welcome+to+my+Digital+Universe!+🌌;Building+the+Future+with+Code+%26+AI+🚀;Let's+Create+Something+Amazing+Together!+✨" alt="Typing SVG" />
+</div>
+<br>
+<br>
 
-### 📫 Connect with me
-- 📧 Email: [harshit3976@gmail.com](mailto:harshit3976@gmail.com)
-- 💼 LinkedIn: [Harshit Singh Negi](https://www.linkedin.com/in/harshitsinghnegi/)
-- 🐦 Twitter: [@harshit2202](https://twitter.com/harshit2202)
-- 💻 GitHub: [@demon2202](https://github.com/demon2202)
 
----
 
-### 👨‍💻 About Me
 
-I'm a self-taught full-stack developer from India with a passion for building AI-powered web applications. I love contributing to open source and continuously learning new technologies.
+<br>
 
-- 🔭 Currently working on AI-powered web applications
-- 🌱 Learning Machine Learning, Cloud Architecture, and System Design
-- 👯 Open to collaborating on Open Source Projects
-- 💬 Ask me about React, Node.js, Python, AI, and Cloud technologies
-- ⚡ Fun fact: My code runs on coffee, music, and console.log()
+<!-- Social & Contact Badges -->
+<div align="center">
+  <a href="mailto:harshit3976@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-harshit3976@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harshitsinghnegi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Harshit%20Singh%20Negi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/harshit2202">
+    <img src="https://img.shields.io/badge/Twitter-@harshit2202-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/demon2202">
+    <img src="https://img.shields.io/badge/GitHub-demon2202-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
----
+<br>
 
-### 🛠️ Tech Stack
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-**Languages:**  
-JavaScript, TypeScript, Python, C++, Java, HTML, CSS
+<br>
 
-**Frontend:**  
-React, Next.js, Redux, Tailwind CSS, Bootstrap, Sass
+<!-- 🎮 PACMAN CONTRIBUTION GRAPH -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+  Contribution Adventure
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+</h2>
 
-**Backend:**  
-Node.js, Express, Flask, FastAPI, Django, GraphQL
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/demon2202/demon2202/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/demon2202/demon2202/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/demon2202/demon2202/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
 
-**Database:**  
-MongoDB, PostgreSQL, MySQL, Redis, Firebase
+<br>
 
-**AI/ML:**  
-PyTorch, TensorFlow, OpenCV, Scikit-Learn, Pandas
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-**DevOps & Cloud:**  
-Docker, Kubernetes, AWS, GCP, Azure, Vercel, Netlify
+<br>
 
-**Tools:**  
-Git, GitHub, VS Code, Figma, Postman, Linux, Bash
+<!-- About Me Section -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" />
+  About Me
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" />
+</h2>
 
----
+<div align="center">
+  <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  
+  <div align="left" style="margin-left: 20px;">
 
-### 📊 GitHub Stats
+\`\`\`yaml
+name: Harshit Singh Negi
+located_in: India 🇮🇳
+current_role: Full-Stack + AI Developer
 
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=demon2202&show_icons=true&theme=dark)
+education:
+  [
+    "Self-Taught Developer",
+    "Open Source Contributor",
+    "Lifelong Learner"
+  ]
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demon2202&layout=compact&theme=dark)
+currently:
+  working_on: "AI-powered Web Applications"
+  learning: ["Machine Learning", "Cloud Architecture", "System Design"]
+  collaborating: "Open Source Projects"
 
----
+hobbies: ["Travelling 🌍", "Photography 📸", "Reading Sci-Fi 📚", "Gaming 🎮"]
 
-### 🚀 Featured Projects
+fun_fact: "My code runs on ☕, 🎵, and console.log()"
+\`\`\`
 
-- [**GreenRoute**](https://github.com/demon2202/GreenRoute) - Sustainable routing application
-- [**DSA Visualization**](https://github.com/demon2202/DsaVisualization) - Interactive data structures and algorithms visualizer
-- [**Disease Prediction AI**](https://github.com/demon2202/Diseases_Prediction_AI) - Machine learning model for disease prediction
-- [**Resume**](https://github.com/demon2202/Resume) - Personal portfolio and resume
+  </div>
+</div>
 
----
+<br clear="both">
 
-### 🎯 Interests
+<!-- Quick Facts -->
+<div align="center">
+  <table>
+    <tr>
+      <td>🔭 Working on</td>
+      <td><b>AI-powered web applications</b></td>
+    </tr>
+    <tr>
+      <td>🌱 Learning</td>
+      <td><b>Machine Learning & Cloud Architecture</b></td>
+    </tr>
+    <tr>
+      <td>👯 Open to</td>
+      <td><b>Collaborate on Open Source Projects</b></td>
+    </tr>
+    <tr>
+      <td>💬 Ask me about</td>
+      <td><b>React, Node.js, Python, AI, Cloud, DataViz</b></td>
+    </tr>
+    <tr>
+      <td>📫 Reach me at</td>
+      <td><b>harshit3976@gmail.com</b></td>
+    </tr>
+  </table>
+</div>
 
-🌍 Travelling | 📸 Photography | 📚 Reading Sci-Fi | 🎮 Gaming
+<br>
 
----
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-Thanks for visiting! Feel free to reach out if you want to collaborate on something cool! ⭐
+<!-- Tech Stack Section -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" />
+  Tech Arsenal
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" />
+</h2>
+
+<div align="center">
+  
+  <!-- Languages -->
+  <h3>💻 Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css&theme=dark" />
+  </p>
+  
+  <!-- Frontend -->
+  <h3>🎨 Frontend</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass&theme=dark" />
+  </p>
+  
+  <!-- Backend -->
+  <h3>⚙️ Backend</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django,graphql&theme=dark" />
+  </p>
+  
+  <!-- Database -->
+  <h3>🗄️ Database</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&theme=dark" />
+  </p>
+  
+  <!-- AI/ML -->
+  <h3>🤖 AI/ML</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="48"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48"/>
+  </p>
+  
+  <!-- DevOps & Cloud -->
+  <h3>☁️ DevOps & Cloud</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,vercel,netlify&theme=dark" />
+  </p>
+  
+  <!-- Tools -->
+  <h3>🛠️ Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,bash&theme=dark" />
+  </p>
+  
+</div>
+
+<br>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- GitHub Stats -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" />
+  GitHub Analytics
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" />
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=demon2202&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&ring_color=F85D7F" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon2202&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" height="180" alt="Top Languages"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=demon2202&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" width="70%" alt="GitHub Streak"/>
+</div>
+
+
+<br>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- Featured Projects Section -->
+<h2 align="center">
+  Featured Projects
+</h2>
+
+<div align="center">
+  <a href="https://github.com/demon2202/GreenRoute">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=GreenRoute&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+  <a href="https://github.com/demon2202/DsaVisualization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=DsaVisualization&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/demon2202/Diseases_Prediction_AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=Diseases_Prediction_AI&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+  <a href="https://github.com/demon2202/Resume">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demon2202&repo=Resume&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+</div>
+
+<br>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- Random Dev Quote -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" />
+  Dev Quote of the Day
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" />
+</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<br>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- Profile Views & Followers -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=demon2202&style=for-the-badge&color=F85D7F&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/demon2202?style=for-the-badge&color=F8D866&labelColor=0D1117&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/demon2202?style=for-the-badge&color=58A6FF&labelColor=0D1117&label=TOTAL+STARS" alt="Stars"/>
+</div>
+
+<br>
+
+<!-- Animated Thank You -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Star+⭐+my+repos+if+you+find+them+useful!;Let's+build+something+awesome+together!+🚀" alt="Thanks"/>
+</div>
+
+<br>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,50:3F5EFB,100:00d4ff&height=120&section=footer&animation=twinkling" width="100%"/>
