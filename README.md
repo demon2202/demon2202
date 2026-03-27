@@ -1,179 +1,212 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        HEADER BANNER                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:0a1628,80:0d2137,100:0a0a0a&height=280&section=header&text=Harshit%20Singh%20Negi&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=45&stroke=00d4ff&strokeWidth=2&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Open%20Source&descAlignY=68&descSize=16&descColor=7eb8d4" width="100%"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED TYPING                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=750&height=60&lines=%F0%9F%9A%80+Building+AI-powered+web+applications;%E2%9A%A1+React+%7C+Node.js+%7C+Python+%7C+Cloud;%F0%9F%A4%96+Making+machines+smarter%2C+one+model+at+a+time;%F0%9F%8C%9F+Open+to+collaborate+on+OSS+projects;%E2%98%95+Fueled+by+coffee+%26+console.log()" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Social Links -->
+<a href="mailto:harshit3976@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/harshitsinghnegi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<a href="https://twitter.com/harshit2202">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>&nbsp;
 <a href="https://github.com/demon2202">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=2&section=header" width="100%"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-```
-██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗██╗████████╗
-██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██║╚══██╔══╝
-███████║███████║██████╔╝███████╗███████║██║   ██║   
-██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║██║   ██║   
-██║  ██║██║  ██║██║  ██║███████║██║  ██║██║   ██║   
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝  
-```
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=00FFB2&center=true&vCenter=true&multiline=false&width=520&lines=Full-Stack+%2B+AI+Developer+%2F%2F+India+%F0%9F%87%AE%F0%9F%87%B3;I+build+things+that+matter+on+the+web;console.log(%22still+debugging%22)%3B+%2F%2F+always" alt="Typing" />
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/-harshit3976%40gmail.com-111?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=111)](mailto:harshit3976@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-111?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=111)](https://www.linkedin.com/in/harshitsinghnegi/)
-[![Twitter](https://img.shields.io/badge/-@harshit2202-111?style=flat-square&logo=x&logoColor=fff&labelColor=111)](https://twitter.com/harshit2202)
-[![GitHub](https://img.shields.io/badge/-demon2202-111?style=flat-square&logo=github&logoColor=fff&labelColor=111)](https://github.com/demon2202)
-
-</div>
-
----
-
-<br/>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### `> whoami`
-
-```typescript
-const harshit = {
-  role    : "Full-Stack + AI Developer",
-  base    : "India 🇮🇳",
-
-  now: {
-    building  : "AI-powered web applications",
-    learning  : ["ML", "Cloud Arch", "System Design"],
-    open_to   : "OSS collaborations",
-  },
-
-  stack: {
-    frontend  : ["React", "Next.js", "Tailwind"],
-    backend   : ["Node.js", "FastAPI", "Django"],
-    ai_ml     : ["PyTorch", "TensorFlow", "OpenCV"],
-    infra     : ["Docker", "K8s", "AWS", "GCP"],
-    db        : ["PostgreSQL", "MongoDB", "Redis"],
-  },
-
-  ask_me_about : ["React", "Python", "AI", "Cloud"],
-  fun_fact     : "runs on ☕ + console.log()",
-};
-```
-
-</td>
-<td width="45%" valign="top">
-
-### `> status`
-
-```
-┌─────────────────────────────────────┐
-│                                     │
-│  ⬤ Online  — available to collab   │
-│                                     │
-│  [████████████████░░░░]  ML         │
-│  [███████████████████░]  React      │
-│  [█████████████████░░░]  Node.js    │
-│  [████████████░░░░░░░░]  Cloud Arch │
-│  [███████████████░░░░░]  FastAPI    │
-│                                     │
-│  📍 India   🕐 IST (UTC+5:30)       │
-│                                     │
-└─────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-### ⬡ &nbsp;Tech Arsenal
-
-<div align="center">
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-111?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-111?style=flat-square&logo=openjdk&logoColor=ED8B00)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs&logoColor=fff)
-![Redux](https://img.shields.io/badge/Redux-111?style=flat-square&logo=redux&logoColor=764ABC)
-![Tailwind](https://img.shields.io/badge/Tailwind-111?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Sass](https://img.shields.io/badge/Sass-111?style=flat-square&logo=sass&logoColor=CC6699)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-111?style=flat-square&logo=express&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=flat-square&logo=fastapi&logoColor=009688)
-![Django](https://img.shields.io/badge/Django-111?style=flat-square&logo=django&logoColor=092E20)
-![GraphQL](https://img.shields.io/badge/GraphQL-111?style=flat-square&logo=graphql&logoColor=E10098)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-111?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-111?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![OpenCV](https://img.shields.io/badge/OpenCV-111?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![Pandas](https://img.shields.io/badge/Pandas-111?style=flat-square&logo=pandas&logoColor=150458)
-
-**Cloud & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-111?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![AWS](https://img.shields.io/badge/AWS-111?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-111?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![Azure](https://img.shields.io/badge/Azure-111?style=flat-square&logo=microsoftazure&logoColor=0078D4)
-![Vercel](https://img.shields.io/badge/Vercel-111?style=flat-square&logo=vercel&logoColor=fff)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-111?style=flat-square&logo=redis&logoColor=DC382D)
-![MySQL](https://img.shields.io/badge/MySQL-111?style=flat-square&logo=mysql&logoColor=4479A1)
-![Firebase](https://img.shields.io/badge/Firebase-111?style=flat-square&logo=firebase&logoColor=FFCA28)
-
-**Tooling**
-
-![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux&logoColor=FCC624)
-![Figma](https://img.shields.io/badge/Figma-111?style=flat-square&logo=figma&logoColor=F24E1E)
-![Postman](https://img.shields.io/badge/Postman-111?style=flat-square&logo=postman&logoColor=FF6C37)
-![VS Code](https://img.shields.io/badge/VS_Code-111?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+<!-- Profile counters -->
+<img src="https://komarev.com/ghpvc/?username=demon2202&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/demon2202?style=for-the-badge&color=0e75b6&labelColor=0d1117&label=FOLLOWERS"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/demon2202?style=for-the-badge&color=0e75b6&labelColor=0d1117&label=TOTAL+STARS"/>
 
 </div>
 
 <br/>
 
----
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### ⬡ &nbsp;GitHub Analytics
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demon2202&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FFB2&icon_color=00FFB2&text_color=cdd6f4&ring_color=00FFB2" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon2202&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FFB2&text_color=cdd6f4" height="160"/>
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🧑‍💻 &nbsp; About Me</h2>
+
+<br/>
+
+<img align="right" alt="Developer at work" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+<br/>
+
+🔭 &nbsp; Currently building **AI-powered web applications**
+
+🌱 &nbsp; Diving deep into **Machine Learning, Cloud Architecture & System Design**
+
+👯 &nbsp; Looking to collaborate on **exciting Open Source projects**
+
+🤝 &nbsp; Seeking help with **advanced ML research & distributed systems**
+
+💬 &nbsp; Ask me about **React, Node.js, Python, AI/ML, Cloud & Data Viz**
+
+⚡ &nbsp; Fun fact: **My code runs on ☕, 🎵, and** `console.log()`
+
+📍 &nbsp; Based in **India** 🇮🇳 &nbsp;|&nbsp; 🕐 **IST (UTC+5:30)**
+
+🎯 &nbsp; Hobbies: **Travelling 🌍 · Photography 📸 · Sci-Fi 📚 · Gaming 🎮**
+
+<br clear="both"/>
+
+<br/>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🛠️ &nbsp; Tech Arsenal</h2>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=demon2202&theme=dark&hide_border=true&background=0d1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2" height="140"/>
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css&theme=dark&perline=8"/>
+
+<br/><br/>
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,figma&theme=dark&perline=8"/>
+
+<br/><br/>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,graphql&theme=dark&perline=8"/>
+
+<br/><br/>
+
+<!-- AI/ML -->
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=8"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="50"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="50"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="50"/>
+
+<br/><br/>
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&theme=dark&perline=8"/>
+
+<br/><br/>
+
+<!-- DevOps & Cloud -->
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,vercel,netlify&theme=dark&perline=8"/>
+
+<br/><br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash&theme=dark&perline=8"/>
+
 </div>
 
 <br/>
 
----
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### ⬡ &nbsp;Contribution Adventure
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    GITHUB ANALYTICS                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📊 &nbsp; GitHub Analytics</h2>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/demon2202">
+  <img src="https://github-readme-stats.vercel.app/api?username=demon2202&show_icons=true&theme=tokyonight&hide_border=false&border_color=1a1b27&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&ring_color=70a5fd&include_all_commits=true&count_private=true" height="180"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/demon2202">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon2202&layout=compact&theme=tokyonight&hide_border=false&border_color=1a1b27&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8" height="180"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/demon2202">
+  <img src="https://streak-stats.demolab.com?user=demon2202&theme=tokyonight-duo&hide_border=false&border=1a1b27&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=c9d1d9&dates=8b949e" height="185"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   ACTIVITY GRAPH                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📈 &nbsp; Contribution Graph</h2>
+
+<br/>
+
+<div align="center">
+
+[![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=demon2202&bg_color=0d1117&color=70a5fd&line=bf91f3&point=c9d1d9&area=true&area_color=70a5fd&hide_border=false&border_color=1a1b27&radius=6)](https://github.com/demon2202)
+
+</div>
+
+<br/>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                PACMAN CONTRIBUTION GRAPH                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🕹️ &nbsp; Pac-Man Devouring My Commits</h2>
+
+<br/>
 
 <div align="center">
   <picture>
@@ -185,18 +218,43 @@ const harshit = {
 
 <br/>
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=demon2202&style=flat-square&color=00FFB2&label=profile+views)
-&nbsp;&nbsp;
-![Followers](https://img.shields.io/github/followers/demon2202?style=flat-square&color=00FFB2&labelColor=111&label=followers)
-&nbsp;&nbsp;
-![Stars](https://img.shields.io/github/stars/demon2202?style=flat-square&color=00FFB2&labelColor=111&label=total+stars)
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1500&color=555555&center=true&vCenter=true&width=500&lines=thanks+for+stopping+by.+%2F%2F+star+a+repo+if+something+helped+you." alt="footer"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ACHIEVEMENTS / TROPHIES                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🏆 &nbsp; GitHub Trophies</h2>
+
+<br/>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=demon2202&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/demon2202)
 
 </div>
+
+<br/>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=70a5fd&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Drop+a+%E2%AD%90+if+something+helped+you!;Let%E2%80%99s+build+something+awesome+together+%F0%9F%9A%80" alt="Footer Typing"/>
+
+<br/><br/>
+
+</div>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d2137,100:0a0a0a&height=120&section=footer&animation=twinkling" width="100%"/>
