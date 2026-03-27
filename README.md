@@ -32,7 +32,7 @@
 <br>
 
 <!-- Animated Line Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="[https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif](https://www.google.com/imgres?q=Developer%20pikels%20gif&imgurl=https%3A%2F%2Fmedia.tenor.com%2F3bTxZ4HdrysAAAAd%2Fpixels-neon.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fmohamedsalahp%2Fmohamedsalahp&docid=phsnppmuGcMA0M&tbnid=-EPmDomZ2s5MGM&vet=12ahUKEwi88ei-mMCTAxVArVYBHYgFIM4QnPAOegQIGBAB..i&w=640&h=360&hcb=2&itg=1&ved=2ahUKEwi88ei-mMCTAxVArVYBHYgFIM4QnPAOegQIGBAB)" width="100%">
 
 <br>
 
