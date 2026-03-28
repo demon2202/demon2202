@@ -86,10 +86,6 @@ const harshit = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=demon2202&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=4FC3F7&text_color=c9d1d9&ring_color=00FF9C" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon2202&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" height="165"/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=demon2202&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF9C&fire=4FC3F7&currStreakLabel=00FF9C" height="165"/>
